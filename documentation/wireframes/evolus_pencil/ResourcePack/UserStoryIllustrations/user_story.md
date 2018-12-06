@@ -7,8 +7,6 @@ Bob as a student will be needing to do different things.
 By setting a goal for the character to get to and working out how the app will make it easy for them to accomplish this, we can write a user story.
 A user story is the first stage of imagining the use of the app; it describes how the character uses the app to get to their goal.
 
-For example: For illustration, see [GitHub Repo](https://github.com/MMU-MakeProgress/MakeProgress/tree/master/documentation/wireframes/evolus_pencil/UserStoryIllustrations).
-
 **Alice creates a new template:**
 Alice opens the app at the 'home' screen.
 She sees a hamburger menu and taps on it. 
